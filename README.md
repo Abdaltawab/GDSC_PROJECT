@@ -6,7 +6,6 @@ A new Flutter project in the workshop GDSC.
 
 This project is a Flutter application that I do it In workshop Google Developer Student Clubs .
  
-https://github.com/Abdaltawab/GDSC_PROJECT/assets/100976388/c8f6e9ce-d94a-4bae-a6cf-1567e479a943
-
+https://github.com/Abdaltawab/GDSC_PROJECT/assets/100976388/7517be2e-6ffd-45a5-995c-c3d1b40040bf
 
 
